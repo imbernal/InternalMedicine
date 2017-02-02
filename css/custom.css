@@ -1,7 +1,18 @@
 .doctor img{
   /*box-shadow: 3px 3px 5px 6px rgba(195, 195, 195, 0.36);*/
-
+  padding-top: 23px;
   height: 250px;
   width: 200px;
 
+}
+
+.doctor .item{
+  display: flex;
+  justify-content: center;
+}
+
+.doctorImgContainer{
+  width: 40%;
+  background: white;
+  padding-bottom: 20px;
 }
